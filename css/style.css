@@ -1,0 +1,11 @@
+p {
+    color: rgb(40, 185, 122);
+}
+
+.not-red {
+    color: rgb(45, 32, 143);
+}
+
+#test {
+    color: blue;
+}
